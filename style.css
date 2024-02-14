@@ -126,11 +126,13 @@ main.dark {
     margin: 0;
     font-size: 39px;
     letter-spacing: -0.05em;
+    font-family: Inter, sans-serif;
 }
 
 .main--facts {
     margin-top: 46px;
     max-width: 400px;
+    font-family: Inter, sans-serif;
 }
 
 .main--facts > li {
